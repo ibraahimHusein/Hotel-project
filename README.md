@@ -16,5 +16,5 @@ Simple hotel landing page with HTML & CSS.
 
 ## ✨ Author
 
-- **Developer:** Abdiaziz Hussein Mude
+- **Developer:** ibraahim Hussein Mude
         Enjoy! ✨
